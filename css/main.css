@@ -809,7 +809,7 @@ html {
 }
 
 #maximage_video{
-	background:url('../video/video.jpg') no-repeat 0 0; 
+	background:url('../video/video.webp') no-repeat 0 0; 
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;

@@ -64,13 +64,13 @@ textarea:focus {
 }
 
 .hero_fullscreen.background_solid.solid_01 {
-	background: url(../../images/home_backgrounds/home_bg_01_orange.jpg);
+	background: url(../../images/home_backgrounds/home_bg_01_orange.webp);
 	background-position:50% 99.9%;
 	background-size: 100% auto;	
 }
 
 .hero_fullscreen.background_solid.solid_02 {
-	background: url(../../images/home_backgrounds/home_bg_02_orange.jpg);
+	background: url(../../images/home_backgrounds/home_bg_02_orange.webp);
 	background-position:50% 99.9%;
 	background-size: 100% auto;	
 }
